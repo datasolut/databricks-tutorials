@@ -29,7 +29,7 @@ Wenn Sie das Notebook als .dbc-Datei heruntergeladen haben, können Sie es in Da
 
 1. Einführung in Spark und Delta Tables in Databricks <br>
     Youtube: [Spark und Delta Table Youtube-Video](https://www.youtube.com/watch?v=7pqYiJ_uUkY) <br>
-    GitHub: [spark_und_delta_tables.py](./Spark%20und%20Data%20tables/spark_und_delta_tables.py)
+    GitHub: [spark_und_delta_tables.py](./Spark%20und%20Data%20tables/spark_and_delta_tables.py)
 
 2. Einführung in die Modellierung von ML-Modellen mit SparkML <br>
     Youtube: [Modellierung mit Linearer Regression Youtube-Video](https://www.youtube.com/watch?v=rJF-PsDk-Jc) <br>
