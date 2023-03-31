@@ -1,6 +1,6 @@
 # Databricks-Tutorials
 
-Dieses Repository enthält Tutorials und Beispiel-Notebooks für die Verwendung von Databricks. Die Tutorials sind auch als Videos auf unserem [YouTube-Kanal](https://www.youtube.com/@datasolut6213) verfügbar. Besuchen Sie auch gerne unsere [Website](www.datasolut.com)
+Dieses Repository enthält Tutorials und Beispiel-Notebooks für die Verwendung von Databricks. Die Tutorials sind auch als Videos auf unserem [YouTube-Kanal](https://www.youtube.com/@datasolut6213) verfügbar. Besuchen Sie auch gerne unsere [Website](https://datasolut.com)!
 
 Sie können die Notebooks auf zwei Arten in Databricks importieren: durch Klonen des Git-Repositorys oder durch Importieren der .dbc-Dateien.
 
