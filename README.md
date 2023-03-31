@@ -35,7 +35,7 @@ Wenn Sie das Notebook als .dbc-Datei heruntergeladen haben, können Sie es in Da
     Youtube: [Modellierung mit Linearer Regression Youtube-Video](https://www.youtube.com/watch?v=rJF-PsDk-Jc) <br>
     GitHub: [lineare_regression_spark.py](./Modellierung/lineare_regression_spark.py)
 
-3. Wie erstellt man ein Cluster in Databricks?
+3. Wie erstellt man ein Cluster in Databricks? <br>
     Youtube: TBD
 
 4. MLflow Tracking <br>
