@@ -35,15 +35,31 @@ Wenn Sie das Notebook als .dbc-Datei heruntergeladen haben, können Sie es in Da
     Youtube: TBD <br>
     GitHub: [lineare_regression_spark.py](./Modellierung/lineare_regression_spark.py)
 
-3. MLflow Tracking <br>
+3. Wie erstellt man ein Cluster in Databricks?
+    Youtube: TBD
+
+4. MLflow Tracking <br>
     Youtube: TBD <br>
     GitHub: [mlflow_tracking.py](./MLflow%20Tracking/mlflow_tracking.py)
 
-4. AutoML <br>
+5. MLflow Registry <br>
+    Youtube: TBD <br>
+    GitHub: [mlflow_registry.py](./MLflow%20Registry/mlflow_registry.py)
+
+6. AutoML <br>
     Youtube: TBD <br>
     GitHub: [automl.py](./AutoML/automl.py)
 
+7. Feature Store <br>
+    Youtube: TBD <br>
+    GitHub [feature_store.py](./Feature%20Store/feature_store.py)
+
 In Kürze veröffentlichen wir weitere Inhalte.
+
+## Verwendete Daten
+In dieser Tutorialreihe zu Databricks wurde der ein Datensatz zu Airbnb Wohnungen in San Francisco von der Website <br>
+http://insideairbnb.com/get-the-data unter der Lizenz https://creativecommons.org/licenses/by/4.0/ verwendet. <br>
+In den Notebooks wird der Datensatz bearbeitet und es werden bestimmte Spalten ausgewählt und bestimmte Werte gefiltert.
 
 ## Weitere Informationen
 
