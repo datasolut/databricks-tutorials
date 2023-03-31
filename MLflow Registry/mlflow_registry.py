@@ -19,6 +19,8 @@
 # MAGIC Schlüsselwörter: MLflow, Spark, Registry
 # MAGIC 
 # MAGIC Dokumentation MLflow - https://mlflow.org/docs/latest/index.html
+# MAGIC 
+# MAGIC Besuchen Sie auch gerne die [datasolut-Website](https://datasolut.com/) und unseren [Youtube-Kanal](https://www.youtube.com/@datasolut6213)!
 
 # COMMAND ----------
 

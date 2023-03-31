@@ -18,6 +18,8 @@
 # MAGIC Schlüsselwörter: Feature Store, Delta Tables, Lookup, MLflow
 # MAGIC 
 # MAGIC Dokumentation Databricks Feature Store - https://docs.databricks.com/machine-learning/feature-store/index.html
+# MAGIC 
+# MAGIC Besuchen Sie auch gerne die [datasolut-Website](https://datasolut.com/) und unseren [Youtube-Kanal](https://www.youtube.com/@datasolut6213)!
 
 # COMMAND ----------
 
@@ -509,3 +511,10 @@ display(df_predictions)
 
 # lösche Feature-Tabelle
 fs.drop_table(name = table_name)
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC #### Besuchen Sie auch gerne unsere(n)
+# MAGIC - Website: www.datasolut.com
+# MAGIC - Youtube-Kanal: https://www.youtube.com/@datasolut6213

@@ -16,6 +16,8 @@
 # MAGIC 
 # MAGIC 
 # MAGIC Schlüsselwörter: AutoML, Spark, Decision Trees, Random Forests, XGBoost
+# MAGIC 
+# MAGIC Besuchen Sie auch gerne die [datasolut-Website](https://datasolut.com/) und unseren [Youtube-Kanal](https://www.youtube.com/@datasolut6213)!
 
 # COMMAND ----------
 

@@ -18,6 +18,8 @@
 # MAGIC Schlüsselwörter: Spark, Lineare Regression, Imputer, Transformer, Vector Assembler, Evaluator<br>
 # MAGIC <br>
 # MAGIC Dokumentation: https://spark.apache.org/docs/latest/ml-guide
+# MAGIC 
+# MAGIC Besuchen Sie auch gerne die [datasolut-Website](https://datasolut.com/) und unseren [Youtube-Kanal](https://www.youtube.com/@datasolut6213)!
 
 # COMMAND ----------
 

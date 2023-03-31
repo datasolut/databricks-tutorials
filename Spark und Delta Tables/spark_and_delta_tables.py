@@ -21,6 +21,8 @@
 # MAGIC Schlüsselwörter: Spark, Delta
 # MAGIC 
 # MAGIC Dokumentation Apache Spark - https://spark.apache.org/docs/latest/
+# MAGIC 
+# MAGIC Besuchen Sie auch gerne die [datasolut-Website](https://datasolut.com/) und unseren [Youtube-Kanal](https://www.youtube.com/@datasolut6213)!
 
 # COMMAND ----------
 
