@@ -28,11 +28,11 @@ Wenn Sie das Notebook als .dbc-Datei heruntergeladen haben, können Sie es in Da
 ## Liste der Tutorials
 
 1. Einführung in Spark und Delta Tables in Databricks <br>
-    Youtube: [Link](https://www.youtube.com/watch?v=7pqYiJ_uUkY) <br>
+    Youtube: [Spark und Delta Table Youtube-Video](https://www.youtube.com/watch?v=7pqYiJ_uUkY) <br>
     GitHub: [spark_und_delta_tables.py](./Spark%20und%20Data%20tables/spark_und_delta_tables.py)
 
 2. Einführung in die Modellierung von ML-Modellen mit SparkML <br>
-    Youtube: TBD <br>
+    Youtube: [Modellierung mit Linearer Regression Youtube-Video](https://www.youtube.com/watch?v=rJF-PsDk-Jc) <br>
     GitHub: [lineare_regression_spark.py](./Modellierung/lineare_regression_spark.py)
 
 3. Wie erstellt man ein Cluster in Databricks?
