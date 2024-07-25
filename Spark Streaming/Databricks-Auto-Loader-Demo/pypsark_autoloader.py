@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC <img src ='files/demos/pypsark-demos/datasolut_logo.jpeg' alt="html image" align="center">
+# MAGIC <img src ='https://github.com/datasolut/databricks-tutorials/blob/main/images/datasolut_logo_quer.png?raw=true' alt="html image" align="center">
 
 # COMMAND ----------
 
