@@ -4,7 +4,7 @@
 
 # COMMAND ----------
 
-<img src ='files/demos/pypsark-demos/cluster_overview.png' alt="Archtektur von Apache Spark" text-align="center" width="500px">
+<img src ='https://github.com/datasolut/databricks-tutorials/blob/main/Spark%20Streaming/Databricks-Auto-Loader-Demo/Streaming-Ablauf.png' alt="Spark Streaming Demo" text-align="center" width="500px">
 
 # COMMAND ----------
 
