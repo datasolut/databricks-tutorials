@@ -4,7 +4,11 @@
 
 # COMMAND ----------
 
-<img src ='https://github.com/datasolut/databricks-tutorials/blob/main/Spark%20Streaming/Databricks-Auto-Loader-Demo/Streaming-Ablauf.png' alt="Spark Streaming Demo" text-align="center" width="500px">
+# MAGIC %md
+# MAGIC ## Überblick der Streaming Demo
+# MAGIC
+# MAGIC
+# MAGIC <img src ='https://raw.githubusercontent.com/datasolut/databricks-tutorials/main/Spark%20Streaming/Databricks-Auto-Loader-Demo/Streaming-Ablauf.png' alt="Spark Streaming Demo" text-align="center" width="1000px">
 
 # COMMAND ----------
 
